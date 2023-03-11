@@ -1,0 +1,15 @@
+C:\Users\Moroz\source\repos\тортики\bin\Debug\net6.0\тортики.exe
+C:\Users\Moroz\source\repos\тортики\bin\Debug\net6.0\тортики.deps.json
+C:\Users\Moroz\source\repos\тортики\bin\Debug\net6.0\тортики.runtimeconfig.json
+C:\Users\Moroz\source\repos\тортики\bin\Debug\net6.0\тортики.dll
+C:\Users\Moroz\source\repos\тортики\bin\Debug\net6.0\тортики.pdb
+C:\Users\Moroz\source\repos\тортики\obj\Debug\net6.0\тортики.csproj.AssemblyReference.cache
+C:\Users\Moroz\source\repos\тортики\obj\Debug\net6.0\тортики.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moroz\source\repos\тортики\obj\Debug\net6.0\тортики.AssemblyInfoInputs.cache
+C:\Users\Moroz\source\repos\тортики\obj\Debug\net6.0\тортики.AssemblyInfo.cs
+C:\Users\Moroz\source\repos\тортики\obj\Debug\net6.0\тортики.csproj.CoreCompileInputs.cache
+C:\Users\Moroz\source\repos\тортики\obj\Debug\net6.0\тортики.dll
+C:\Users\Moroz\source\repos\тортики\obj\Debug\net6.0\refint\тортики.dll
+C:\Users\Moroz\source\repos\тортики\obj\Debug\net6.0\тортики.pdb
+C:\Users\Moroz\source\repos\тортики\obj\Debug\net6.0\тортики.genruntimeconfig.cache
+C:\Users\Moroz\source\repos\тортики\obj\Debug\net6.0\ref\тортики.dll
